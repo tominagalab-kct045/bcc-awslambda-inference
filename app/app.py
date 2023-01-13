@@ -1,0 +1,1 @@
+# このpythonスクリプトでmmdetectionを使って推論処理を行います
