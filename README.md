@@ -1,1 +1,7 @@
-# bcc-awslambda-inference
+# tominagalab-kct045/bcc-awslambda-inference
+## リポジトリ概要  
+本リポジトリは，九工大 林英治研究室のビーチクリーンクラウドサービス開発プロジェクトのためのものです．本リポジトリが提供し共有するのは，以下になります．  
+- mmdetectionベースの推論を行うpythonプログラム． 
+- 上記pythonプログラムを含むDockerイメージ作成のための各種リソース．
+- AWS ECR サービスに作成したコンテナリポジトリへのプッシュを行うスクリプト．
+
